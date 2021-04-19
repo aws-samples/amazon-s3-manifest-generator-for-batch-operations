@@ -1,0 +1,14 @@
+{
+  "name": "amazon-s3-manifest-generator-for-batch-operations",
+  "version": "1.0.0",
+  "description": "Amazon S3 manifest generator for Batch Operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tgpadua",
+  "license": "MIT-0",
+  "dependencies": {
+    "aws-sdk": "^2.841.0"
+  }
+}
