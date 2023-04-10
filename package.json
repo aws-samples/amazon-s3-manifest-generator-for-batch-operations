@@ -9,6 +9,6 @@
   "author": "tgpadua",
   "license": "MIT-0",
   "dependencies": {
-    "aws-sdk": "^2.841.0"
+    "aws-sdk": "^2.1354.0"
   }
 }
