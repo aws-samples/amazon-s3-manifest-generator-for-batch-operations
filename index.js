@@ -18,7 +18,7 @@ async function list(token) {
         params.Prefix = PREFIX;
     }
 
-    if(!token) {
+    if(!!token) {
         params.ContinuationToken = token;
     }
     
